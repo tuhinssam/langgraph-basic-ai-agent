@@ -1,0 +1,1 @@
+- stores conversation history and calls openai to generate response
